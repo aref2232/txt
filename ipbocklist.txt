@@ -33,6 +33,8 @@
 18.195.244.173/32 
 #### prev line was detected as protonvpn got it from cert when searched
 
+
+95.164.46.235/32
 93.190.142.102/32
 34.107.165.5/32
 38.91.101.108/32
