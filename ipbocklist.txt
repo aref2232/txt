@@ -32,7 +32,7 @@
 162.19.235.182/32
 18.195.244.173/32 
 #### prev line was detected as protonvpn got it from cert when searched
-
+164.92.178.103/32
 212.8.253.136/30
 95.164.0.0/15
 95.164.46.235/24
