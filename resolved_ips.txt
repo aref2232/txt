@@ -1,6 +1,6 @@
 # cibeg.com
-45.223.153.162
 45.223.60.162
+45.223.153.162
 # end cibeg.com
 
 # businessonline.cibeg.com
@@ -17,8 +17,8 @@
 # end alahlynet.com.eg
 
 # nbe.com.eg
-41.33.193.24
 41.128.166.250
+41.33.193.24
 # end nbe.com.eg
 
 # alexbank.com
@@ -26,7 +26,23 @@
 # end alexbank.com
 
 # internetbanking.alexbank.com
-41.33.141.52
 196.204.7.230
+41.33.141.52
 # end internetbanking.alexbank.com
+
+# id.eta.gov.eg
+164.160.67.11
+# end id.eta.gov.eg
+
+# invoicing.eta.gov.eg
+164.160.67.13
+# end invoicing.eta.gov.eg
+
+# eta.gov.eg
+164.160.66.172
+# end eta.gov.eg
+
+# profile.eta.gov.eg
+164.160.67.12
+# end profile.eta.gov.eg
 
