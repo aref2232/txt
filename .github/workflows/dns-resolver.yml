@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write  # ✅ Allows committing changes with GITHUB_TOKEN
+  contents: write  # Allows committing changes
 
 jobs:
   resolve-ips:
@@ -17,7 +17,7 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
         with:
-          persist-credentials: false  # Prevents default token from being used automatically
+          persist-credentials: false  # Use manual token handling
 
       - name: Install dig (dnsutils)
         run: sudo apt-get update && sudo apt-get install -y dnsutils
@@ -27,6 +27,9 @@ jobs:
           echo "Rebuilding resolved_ips.txt..."
           > resolved_ips.txt
           while IFS= read -r domain; do
+            if [[ -z "$domain" || "$domain" == \#* ]]; then
+              continue
+            fi
             echo "# $domain" >> resolved_ips.txt
             dig +short "$domain" | grep -E '^[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+$' >> resolved_ips.txt
             echo "# end $domain" >> resolved_ips.txt
