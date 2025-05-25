@@ -1,4 +1,32 @@
-# cib.com
-209.15.37.6
-# end cib.com
+# cibeg.com
+45.223.153.162
+45.223.60.162
+# end cibeg.com
+
+# businessonline.cibeg.com
+41.223.240.103
+# end businessonline.cibeg.com
+
+# digitalinternetbanking.cibeg.com
+41.223.240.100
+# end digitalinternetbanking.cibeg.com
+
+# alahlynet.com.eg
+41.33.193.23
+41.128.166.188
+# end alahlynet.com.eg
+
+# nbe.com.eg
+41.33.193.24
+41.128.166.250
+# end nbe.com.eg
+
+# alexbank.com
+193.227.213.245
+# end alexbank.com
+
+# internetbanking.alexbank.com
+41.33.141.52
+196.204.7.230
+# end internetbanking.alexbank.com
 
