@@ -1,0 +1,42 @@
+name: DNS Resolver
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+    - cron: '0 12 * * *'
+  workflow_dispatch:
+
+jobs:
+  resolve-ips:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Install dig (dnsutils)
+        run: sudo apt-get install -y dnsutils
+
+      - name: Resolve all IPs and update file
+        run: |
+          echo "Rebuilding resolved_ips.txt..."
+          > resolved_ips.txt
+          while IFS= read -r domain; do
+            echo "# $domain" >> resolved_ips.txt
+            dig +short "$domain" | grep -E '^[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+$' >> resolved_ips.txt
+            echo "# end $domain" >> resolved_ips.txt
+            echo >> resolved_ips.txt
+          done < domains.txt
+          cat resolved_ips.txt
+
+      - name: Commit and push IP list
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          if git diff --quiet resolved_ips.txt; then
+            echo "No changes to commit."
+          else
+            git add resolved_ips.txt
+            git commit -m "Update resolved IPs on $(date -u '+%Y-%m-%d %H:%M:%S')"
+            git push
