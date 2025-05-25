@@ -5,3 +5,6 @@ alahlynet.com.eg
 nbe.com.eg
 alexbank.com
 internetbanking.alexbank.com
+id.eta.gov.eg
+eta.gov.eg
+
