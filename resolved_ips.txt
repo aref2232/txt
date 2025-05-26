@@ -12,13 +12,13 @@
 # end digitalinternetbanking.cibeg.com
 
 # alahlynet.com.eg
-41.33.193.23
 41.128.166.188
+41.33.193.23
 # end alahlynet.com.eg
 
 # nbe.com.eg
-41.128.166.250
 41.33.193.24
+41.128.166.250
 # end nbe.com.eg
 
 # alexbank.com
@@ -26,8 +26,8 @@
 # end alexbank.com
 
 # internetbanking.alexbank.com
-196.204.7.230
 41.33.141.52
+196.204.7.230
 # end internetbanking.alexbank.com
 
 # id.eta.gov.eg
