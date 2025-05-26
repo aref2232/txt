@@ -26,8 +26,8 @@
 # end alexbank.com
 
 # internetbanking.alexbank.com
-41.33.141.52
 196.204.7.230
+41.33.141.52
 # end internetbanking.alexbank.com
 
 # id.eta.gov.eg
