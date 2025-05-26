@@ -1,6 +1,6 @@
 # cibeg.com
-45.223.60.162
 45.223.153.162
+45.223.60.162
 # end cibeg.com
 
 # businessonline.cibeg.com
@@ -45,4 +45,8 @@
 # profile.eta.gov.eg
 164.160.67.12
 # end profile.eta.gov.eg
+
+# api-portal.invoicing.eta.gov.eg
+164.160.67.15
+# end api-portal.invoicing.eta.gov.eg
 
