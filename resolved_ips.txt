@@ -12,8 +12,8 @@
 # end digitalinternetbanking.cibeg.com
 
 # alahlynet.com.eg
-41.128.166.188
 41.33.193.23
+41.128.166.188
 # end alahlynet.com.eg
 
 # nbe.com.eg
@@ -49,4 +49,21 @@
 # api-portal.invoicing.eta.gov.eg
 164.160.67.15
 # end api-portal.invoicing.eta.gov.eg
+
+# sdk.sit.invoicing.eta.gov.eg
+164.160.66.96
+196.46.22.96
+# end sdk.sit.invoicing.eta.gov.eg
+
+# preprod.invoicing.eta.gov.eg
+164.160.67.22
+# end preprod.invoicing.eta.gov.eg
+
+# sdk.invoicing.eta.gov.eg
+164.160.67.17
+# end sdk.invoicing.eta.gov.eg
+
+# sdk.preprod.invoicing.eta.gov.eg
+164.160.67.24
+# end sdk.preprod.invoicing.eta.gov.eg
 
