@@ -9,3 +9,4 @@ id.eta.gov.eg
 invoicing.eta.gov.eg
 eta.gov.eg
 profile.eta.gov.eg
+api-portal.invoicing.eta.gov.eg
