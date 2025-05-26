@@ -10,3 +10,7 @@ invoicing.eta.gov.eg
 eta.gov.eg
 profile.eta.gov.eg
 api-portal.invoicing.eta.gov.eg
+sdk.sit.invoicing.eta.gov.eg
+preprod.invoicing.eta.gov.eg
+sdk.invoicing.eta.gov.eg
+sdk.preprod.invoicing.eta.gov.eg
