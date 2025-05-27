@@ -15,3 +15,6 @@ preprod.invoicing.eta.gov.eg
 sdk.invoicing.eta.gov.eg
 sdk.preprod.invoicing.eta.gov.eg
 odoo.com
+bitwarden.com
+vault.bitwarden.com
+send.bitwarden.com
