@@ -17,4 +17,5 @@ sdk.preprod.invoicing.eta.gov.eg
 odoo.com
 bitwarden.com
 vault.bitwarden.com
+mbz100.bitwarden.map.fastly.net
 send.bitwarden.com
