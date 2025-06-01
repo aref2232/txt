@@ -1,6 +1,6 @@
 # cibeg.com
-45.223.60.162
 45.223.153.162
+45.223.60.162
 # end cibeg.com
 
 # businessonline.cibeg.com
