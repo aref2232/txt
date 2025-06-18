@@ -18,6 +18,7 @@
 
 # nbe.com.eg
 41.33.193.24
+41.128.166.12
 41.128.166.250
 # end nbe.com.eg
 
@@ -26,8 +27,8 @@
 # end alexbank.com
 
 # internetbanking.alexbank.com
-196.204.7.230
 41.33.141.52
+196.204.7.230
 # end internetbanking.alexbank.com
 
 # id.eta.gov.eg
@@ -73,17 +74,17 @@
 
 # bitwarden.com
 151.101.129.91
-151.101.193.91
-151.101.65.91
 151.101.1.91
+151.101.65.91
+151.101.193.91
 # end bitwarden.com
 
 # vault.bitwarden.com
-151.101.201.91
+151.101.45.91
 # end vault.bitwarden.com
 
 # mbz100.bitwarden.map.fastly.net
-151.101.201.91
+151.101.45.91
 # end mbz100.bitwarden.map.fastly.net
 
 # send.bitwarden.com
