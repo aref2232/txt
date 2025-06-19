@@ -1,6 +1,6 @@
 # cibeg.com
-45.223.153.162
 45.223.60.162
+45.223.153.162
 # end cibeg.com
 
 # businessonline.cibeg.com
@@ -12,14 +12,14 @@
 # end digitalinternetbanking.cibeg.com
 
 # alahlynet.com.eg
-41.128.166.188
 41.33.193.23
+41.128.166.188
 # end alahlynet.com.eg
 
 # nbe.com.eg
-41.33.193.24
-41.128.166.12
 41.128.166.250
+41.128.166.12
+41.33.193.24
 # end nbe.com.eg
 
 # alexbank.com
@@ -73,23 +73,23 @@
 # end odoo.com
 
 # bitwarden.com
+151.101.129.91
 151.101.1.91
 151.101.65.91
 151.101.193.91
-151.101.129.91
 # end bitwarden.com
 
 # vault.bitwarden.com
-146.75.77.91
+151.101.41.91
 # end vault.bitwarden.com
 
 # mbz100.bitwarden.map.fastly.net
-146.75.77.91
+151.101.41.91
 # end mbz100.bitwarden.map.fastly.net
 
 # send.bitwarden.com
-104.22.66.232
 172.67.25.144
+104.22.66.232
 104.22.67.232
 # end send.bitwarden.com
 
