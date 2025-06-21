@@ -12,8 +12,8 @@
 # end digitalinternetbanking.cibeg.com
 
 # alahlynet.com.eg
-41.128.166.188
 41.33.193.23
+41.128.166.188
 # end alahlynet.com.eg
 
 # nbe.com.eg
@@ -73,10 +73,10 @@
 # end odoo.com
 
 # bitwarden.com
-151.101.129.91
 151.101.1.91
-151.101.65.91
 151.101.193.91
+151.101.65.91
+151.101.129.91
 # end bitwarden.com
 
 # vault.bitwarden.com
@@ -89,7 +89,7 @@
 
 # send.bitwarden.com
 104.22.66.232
-172.67.25.144
 104.22.67.232
+172.67.25.144
 # end send.bitwarden.com
 
