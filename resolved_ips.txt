@@ -12,14 +12,14 @@
 # end digitalinternetbanking.cibeg.com
 
 # alahlynet.com.eg
-41.128.166.188
 41.33.193.23
+41.128.166.188
 # end alahlynet.com.eg
 
 # nbe.com.eg
 41.33.193.24
-41.128.166.250
 41.128.166.12
+41.128.166.250
 # end nbe.com.eg
 
 # alexbank.com
@@ -27,8 +27,8 @@
 # end alexbank.com
 
 # internetbanking.alexbank.com
-41.33.141.52
 196.204.7.230
+41.33.141.52
 # end internetbanking.alexbank.com
 
 # id.eta.gov.eg
@@ -73,10 +73,10 @@
 # end odoo.com
 
 # bitwarden.com
-151.101.65.91
-151.101.129.91
-151.101.1.91
 151.101.193.91
+151.101.129.91
+151.101.65.91
+151.101.1.91
 # end bitwarden.com
 
 # vault.bitwarden.com
