@@ -1,6 +1,6 @@
 # cibeg.com
-45.223.60.162
 45.223.153.162
+45.223.60.162
 # end cibeg.com
 
 # businessonline.cibeg.com
@@ -69,10 +69,10 @@
 # end odoo.com
 
 # bitwarden.com
+151.101.193.91
+151.101.129.91
 151.101.65.91
 151.101.1.91
-151.101.129.91
-151.101.193.91
 # end bitwarden.com
 
 # vault.bitwarden.com
