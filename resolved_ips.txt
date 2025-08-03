@@ -70,18 +70,18 @@
 # end odoo.com
 
 # bitwarden.com
+151.101.1.91
 151.101.193.91
 151.101.129.91
 151.101.65.91
-151.101.1.91
 # end bitwarden.com
 
 # vault.bitwarden.com
-151.101.201.91
+151.101.41.91
 # end vault.bitwarden.com
 
 # mbz100.bitwarden.map.fastly.net
-151.101.201.91
+151.101.41.91
 # end mbz100.bitwarden.map.fastly.net
 
 # send.bitwarden.com
