@@ -24,8 +24,8 @@
 # end alexbank.com
 
 # internetbanking.alexbank.com
-41.33.141.52
 196.204.7.230
+41.33.141.52
 # end internetbanking.alexbank.com
 
 # id.eta.gov.eg
@@ -70,22 +70,22 @@
 # end odoo.com
 
 # bitwarden.com
-151.101.129.91
-151.101.193.91
-151.101.65.91
 151.101.1.91
+151.101.65.91
+151.101.193.91
+151.101.129.91
 # end bitwarden.com
 
 # vault.bitwarden.com
-146.75.93.91
+146.75.29.91
 # end vault.bitwarden.com
 
 # mbz100.bitwarden.map.fastly.net
-146.75.93.91
+146.75.29.91
 # end mbz100.bitwarden.map.fastly.net
 
 # send.bitwarden.com
-172.66.171.37
 104.20.29.114
+172.66.171.37
 # end send.bitwarden.com
 
