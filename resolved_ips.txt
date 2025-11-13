@@ -1,6 +1,6 @@
 # cibeg.com
-45.223.153.162
 45.223.60.162
+45.223.153.162
 # end cibeg.com
 
 # businessonline.cibeg.com
@@ -24,8 +24,8 @@
 # end alexbank.com
 
 # internetbanking.alexbank.com
-41.33.141.52
 196.204.7.230
+41.33.141.52
 # end internetbanking.alexbank.com
 
 # id.eta.gov.eg
@@ -70,8 +70,8 @@
 # end odoo.com
 
 # bitwarden.com
-151.101.193.91
 151.101.65.91
+151.101.193.91
 151.101.129.91
 151.101.1.91
 # end bitwarden.com
@@ -85,7 +85,7 @@
 # end mbz100.bitwarden.map.fastly.net
 
 # send.bitwarden.com
-172.66.171.37
 104.20.29.114
+172.66.171.37
 # end send.bitwarden.com
 
