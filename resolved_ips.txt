@@ -24,8 +24,8 @@
 # end alexbank.com
 
 # internetbanking.alexbank.com
-196.204.7.230
 41.33.141.52
+196.204.7.230
 # end internetbanking.alexbank.com
 
 # id.eta.gov.eg
@@ -70,10 +70,10 @@
 # end odoo.com
 
 # bitwarden.com
-151.101.65.91
-151.101.1.91
-151.101.193.91
 151.101.129.91
+151.101.1.91
+151.101.65.91
+151.101.193.91
 # end bitwarden.com
 
 # vault.bitwarden.com
